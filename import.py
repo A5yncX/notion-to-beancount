@@ -5,7 +5,7 @@ import os
 # 找到符合要求的csv文件
 filename = ''
 for file in os.listdir('.'):
-    if file.startswith('月账单') and file.endswith('.csv'):
+    if file.startswith('月账单 ') and file.endswith('.csv'):
         filename = file
         break
 
