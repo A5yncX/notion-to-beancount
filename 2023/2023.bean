@@ -1,0 +1,21 @@
+;账本信息
+option "title" "2023" ;账本名
+option "operating_currency" "CNY" ;账本货币
+
+
+;2019年每个账本文件的描述
+include "trip/00.bean" ;旅行&出差目录
+include "cycle/00.bean" ;周期性费用/交易目录
+
+include "monthly/1.bean" ;默认目录，每月日常支出，收入，转账等
+include "monthly/2.bean"
+include "monthly/3.bean"
+include "monthly/4.bean"
+include "monthly/5.bean"
+include "monthly/6.bean"
+include "monthly/7.bean"
+include "monthly/8.bean"
+include "monthly/9.bean"
+include "monthly/10.bean"
+include "monthly/11.bean"
+include "monthly/12.bean"
