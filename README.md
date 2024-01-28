@@ -4,7 +4,7 @@
 
 [Beancount —— 命令行复式簿记](https://wzyboy.im/post/1063.html)
 
-[notion月账单模板](https://asyncx.notion.site/94fd0547e412439aab00dbf2c1fb9097)
+[Notion 月账单模板](https://wary-pendulum-590.notion.site/8b0e1616c5024cd6bfadf288df27648c?pvs=4)
 
 [记账神器 Beancount 教程](https://sspai.com/post/59777)
 
